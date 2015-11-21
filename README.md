@@ -128,9 +128,9 @@ Running the last QUnit 1.x.x version without any deprecation warnings will proba
 
 ## More and more features still coming
 
-- QUnit.pending
-- Integration with chai.js
-- beforeAll/afterAll hooks
+- [QUnit.pending](git@github.com:leobalter/qunit-roadmap.git)
+- [Integration with chai.js](https://github.com/jquery/qunit/issues/864)
+- [beforeAll/afterAll hooks](https://github.com/jquery/qunit/issues/893)
 - ?
 
 See more at https://waffle.io/jquery/qunit
